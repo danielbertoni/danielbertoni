@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Daniel Bertoni.</h1>
 <h3 align="center">Estou me tornando um Desenvolvedor Front-end que escreve código limpo, elegante e eficiente.</h3>
 
-- 🔸 [Estudando] formação Full-Stak [B7 Web](https://b7web.com.br/fullstack/)
+- 🔸 [Estudando] formação Full-Stack [B7 Web](https://b7web.com.br/fullstack/)
 
-- 🔸 [Estudando] formação Full-Stak: [Rocketseat - Discover](https://www.rocketseat.com.br/discover)
+- 🔸 [Estudando] formação Full-Stack: [Rocketseat - Discover](https://www.rocketseat.com.br/discover)
 
 - 🔸 [Estudando] Bootcamp de UX: [Aldeia - Bootcamp UX](https://cursos.aldeia.cc/online/ux-design/)
 
